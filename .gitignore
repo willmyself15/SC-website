@@ -1,0 +1,9 @@
+# Source footage (web-ready copies live in videos/)
+/*.mp4
+
+# Design references and working files
+/*.png
+temporary screenshots/
+CLAUDE.md
+
+.DS_Store
